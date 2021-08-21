@@ -60,7 +60,7 @@ public class Settings {
 
 ````
 
-
+[Singleton Pattern code 전체보기](YalcoDesignPattern/src/com/yalco/singleton)
 
 
 
